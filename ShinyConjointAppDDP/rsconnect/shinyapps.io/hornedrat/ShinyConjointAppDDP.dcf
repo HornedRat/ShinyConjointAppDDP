@@ -1,0 +1,12 @@
+name: ShinyConjointAppDDP
+title: ShinyConjointAppDDP
+username:
+account: hornedrat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 581681
+bundleId: 1710787
+url: https://hornedrat.shinyapps.io/ShinyConjointAppDDP/
+when: 1542725126.21374
+asMultiple: FALSE
+asStatic: FALSE
