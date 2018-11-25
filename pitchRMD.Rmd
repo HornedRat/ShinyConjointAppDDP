@@ -70,8 +70,7 @@ The application can be a useful tool for business management. It allows to:
 
 ## Thank You
 
-For more information about the app, please contact the author, [Jakub Wiatrak](https://github.com/HornedRat/).  
-
+For more information about the app, please see the [GitHub page](https://github.com/HornedRat/ShinyConjointAppDDP).  
 
 For further information about conjoint analysis methodology, see [this page](https://en.wikipedia.org/wiki/Conjoint_analysis).  
 

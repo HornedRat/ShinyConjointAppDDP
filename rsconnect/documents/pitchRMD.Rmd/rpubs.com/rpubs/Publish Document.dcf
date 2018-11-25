@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/442595/75304c5e08124026a4aaecf14bf219c8
+bundleId: https://api.rpubs.com/api/v1/document/442595/75304c5e08124026a4aaecf14bf219c8
+url: http://rpubs.com/HornedRat/442595
+when: 1543148381.141
